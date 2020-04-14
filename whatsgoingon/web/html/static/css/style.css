@@ -1,0 +1,27 @@
+#map {
+    height: 85%;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+eventimg {
+    object-fit: cover;
+    width:230px;
+    height:230px;
+}
+#pac-input {
+    background-color: #fff;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: 300;
+    margin-left: 12px;
+    padding: 0 11px 0 13px;
+    text-overflow: ellipsis;
+    width: 400px;
+    z-index: 2147483647 !important;
+}
+.pac-container, .pac-item{
+    z-index: 2147483647 !important;
+}

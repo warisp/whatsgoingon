@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="{{ url_for('web.static', filename='css/style.css') }}">
+    </head>
+
+    <body>
+
+        <div id="map"></div>
+
+        <script type="text/javascript" src="{{ url_for('web.static', filename='js/map.js') }}"></script>
+
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA0yoMZCwV7mVB5A6noR4KEWVU5yJThu2Y&libraries=places&callback=initMap" async defer></script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    </body>
+</html>
