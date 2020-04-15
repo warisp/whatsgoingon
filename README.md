@@ -14,9 +14,6 @@ Summary:
    - Spotify top track
    - Tickets
 
-## Author
-**Waris Paktian**
-
 ### Installation
 
 To clone the repository and run the program:
@@ -28,3 +25,6 @@ $ cd whatsgoingon
 # running program:
 $ python run.py {--debug (Optional: To print messages to console)}
 ```
+
+## Author
+**Waris Paktian**
