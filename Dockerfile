@@ -1,6 +1,6 @@
 # Dockerfile-flask
 
-FROM python:3.7
+FROM python:3.8
 
 ADD whatsgoingon project
 WORKDIR project
