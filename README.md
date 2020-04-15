@@ -3,6 +3,8 @@ Flask app that loads Google Maps and places markers for events around you.
 
 [![Python 3.7.0](https://img.shields.io/badge/python-3.7.0-green.svg)](https://www.python.org/downloads/release/python-370/)
 
+![Uploading Screen Shot 2020-04-15 at 02.20.19.png…]()
+
 Summary:
  - Starts up Google Maps
  - Finds events near you and places marker
