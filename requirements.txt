@@ -1,4 +1,4 @@
-requests==2.30.0
+requests==2.31.0
 Flask==1.1.4
 Flask_Caching==1.11.1
 spotipy==2.23.0
