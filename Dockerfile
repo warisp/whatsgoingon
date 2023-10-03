@@ -1,6 +1,6 @@
 # Dockerfile-flask
 
-FROM python:3.11
+FROM python:3.12
 
 ADD whatsgoingon project
 ADD requirements.txt project
